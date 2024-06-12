@@ -1,0 +1,9 @@
+[submodule "daancode"]
+	path = daancode
+	url = https://github.com/daancode/a-star.git
+[submodule "MarcnKov"]
+	path = MarcnKov
+	url = https://github.com/MarcnKov/A-star-in-Cpp.git
+[submodule "jansonsa"]
+	path = jansonsa
+	url = https://github.coventry.ac.uk/jansonsa/D1.git
